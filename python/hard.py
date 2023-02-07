@@ -1,7 +1,7 @@
 from colorama import Fore, init, deinit
 from random import randint
 from os import system
-import Generate_lock
+import python.Generate_lock as Generate_lock
 
 # Junin's Sheet
 lockpicking_skill = 5
