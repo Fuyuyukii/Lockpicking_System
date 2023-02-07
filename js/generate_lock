@@ -1,9 +1,0 @@
-
-
-// generating the springs that will be inside of lock
-var springs = [];
-var fake_clicks_positions = [];
-var lock_unlock_order = [];
-var lock_durability = [];
-// each spring makes up the entire life of the padlock
-
